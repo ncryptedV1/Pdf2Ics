@@ -1,0 +1,10 @@
+# IDE-settings
+.idea
+*.iml
+
+# files for running the program
+calendar.pdf
+calendar.ics
+
+# Maven temp files
+target
